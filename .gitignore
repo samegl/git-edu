@@ -4,4 +4,8 @@
 .idea
 >>>>>>> fb-02
 *.iml
+<<<<<<< Updated upstream
 *.ipr
+=======
+*.iws
+>>>>>>> Stashed changes
